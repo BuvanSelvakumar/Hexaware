@@ -1,0 +1,14 @@
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.csproj.AssemblyReference.cache
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.exe.config
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.exe
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.pdb
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.exe
+C:\Users\rohit\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.pdb
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.exe.config
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.exe
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.pdb
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.csproj.AssemblyReference.cache
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.exe
+C:\Users\buvan\Downloads\TicketBookingSystem\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.pdb
